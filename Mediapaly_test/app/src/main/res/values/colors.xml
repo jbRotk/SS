@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607d8b</color>
+    <color name="colorPrimaryDark">#455a64</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="activityback">#455a64</color>
+    <color name="wihiteback">#ffffff</color>
+    <color name="linecloro">#607d8b</color>
+    <color name="MainMp3back">#88c9eb</color>
+
+    <color name="layoutfocuse">#ababab</color>
+    <color name="layoutnofocuse">#fefefe</color>
+
+    <color name="BlackAppThem">#000000</color>
+</resources>

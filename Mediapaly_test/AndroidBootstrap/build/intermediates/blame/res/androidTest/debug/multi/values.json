@@ -1,0 +1,1235 @@
+[
+    {
+        "outputFile": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 11,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 10,
+                        "endColumn": 11,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endLine": 18,
+                    "endColumn": 11,
+                    "endOffset": 671
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 399,
+                        "endLine": 18,
+                        "endColumn": 11,
+                        "endOffset": 671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 676,
+                    "endLine": 25,
+                    "endColumn": 11,
+                    "endOffset": 909
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 676,
+                        "endLine": 25,
+                        "endColumn": 11,
+                        "endOffset": 909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 914,
+                    "endLine": 31,
+                    "endColumn": 11,
+                    "endOffset": 1126
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 914,
+                        "endLine": 31,
+                        "endColumn": 11,
+                        "endOffset": 1126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1131,
+                    "endColumn": 43,
+                    "endOffset": 1170
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1131,
+                        "endColumn": 43,
+                        "endOffset": 1170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1175,
+                    "endColumn": 51,
+                    "endOffset": 1222
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1175,
+                        "endColumn": 51,
+                        "endOffset": 1222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1227,
+                    "endLine": 728,
+                    "endColumn": 11,
+                    "endOffset": 34374
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1227,
+                        "endLine": 728,
+                        "endColumn": 11,
+                        "endOffset": 34374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 729,
+                    "startColumn": 4,
+                    "startOffset": 34379,
+                    "endColumn": 45,
+                    "endOffset": 34420
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 729,
+                        "startColumn": 4,
+                        "startOffset": 34379,
+                        "endColumn": 45,
+                        "endOffset": 34420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 730,
+                    "startColumn": 4,
+                    "startOffset": 34425,
+                    "endColumn": 50,
+                    "endOffset": 34471
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 730,
+                        "startColumn": 4,
+                        "startOffset": 34425,
+                        "endColumn": 50,
+                        "endOffset": 34471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 731,
+                    "startColumn": 4,
+                    "startOffset": 34476,
+                    "endColumn": 47,
+                    "endOffset": 34519
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 731,
+                        "startColumn": 4,
+                        "startOffset": 34476,
+                        "endColumn": 47,
+                        "endOffset": 34519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 732,
+                    "startColumn": 4,
+                    "startOffset": 34524,
+                    "endLine": 1069,
+                    "endColumn": 11,
+                    "endOffset": 51566
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 732,
+                        "startColumn": 4,
+                        "startOffset": 34524,
+                        "endLine": 1069,
+                        "endColumn": 11,
+                        "endOffset": 51566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1070,
+                    "startColumn": 4,
+                    "startOffset": 51571,
+                    "endColumn": 56,
+                    "endOffset": 51623
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1070,
+                        "startColumn": 4,
+                        "startOffset": 51571,
+                        "endColumn": 56,
+                        "endOffset": 51623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1071,
+                    "startColumn": 4,
+                    "startOffset": 51628,
+                    "endColumn": 54,
+                    "endOffset": 51678
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1071,
+                        "startColumn": 4,
+                        "startOffset": 51628,
+                        "endColumn": 54,
+                        "endOffset": 51678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1072,
+                    "startColumn": 4,
+                    "startOffset": 51683,
+                    "endColumn": 57,
+                    "endOffset": 51736
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1072,
+                        "startColumn": 4,
+                        "startOffset": 51683,
+                        "endColumn": 57,
+                        "endOffset": 51736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1073,
+                    "startColumn": 4,
+                    "startOffset": 51741,
+                    "endColumn": 66,
+                    "endOffset": 51803
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1073,
+                        "startColumn": 4,
+                        "startOffset": 51741,
+                        "endColumn": 66,
+                        "endOffset": 51803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1074,
+                    "startColumn": 4,
+                    "startOffset": 51808,
+                    "endColumn": 64,
+                    "endOffset": 51868
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1074,
+                        "startColumn": 4,
+                        "startOffset": 51808,
+                        "endColumn": 64,
+                        "endOffset": 51868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1075,
+                    "startColumn": 4,
+                    "startOffset": 51873,
+                    "endColumn": 64,
+                    "endOffset": 51933
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1075,
+                        "startColumn": 4,
+                        "startOffset": 51873,
+                        "endColumn": 64,
+                        "endOffset": 51933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1076,
+                    "startColumn": 4,
+                    "startOffset": 51938,
+                    "endColumn": 57,
+                    "endOffset": 51991
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1076,
+                        "startColumn": 4,
+                        "startOffset": 51938,
+                        "endColumn": 57,
+                        "endOffset": 51991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1077,
+                    "startColumn": 4,
+                    "startOffset": 51996,
+                    "endColumn": 57,
+                    "endOffset": 52049
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1077,
+                        "startColumn": 4,
+                        "startOffset": 51996,
+                        "endColumn": 57,
+                        "endOffset": 52049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1078,
+                    "startColumn": 4,
+                    "startOffset": 52054,
+                    "endColumn": 63,
+                    "endOffset": 52113
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1078,
+                        "startColumn": 4,
+                        "startOffset": 52054,
+                        "endColumn": 63,
+                        "endOffset": 52113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1079,
+                    "startColumn": 4,
+                    "startOffset": 52118,
+                    "endColumn": 48,
+                    "endOffset": 52162
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1079,
+                        "startColumn": 4,
+                        "startOffset": 52118,
+                        "endColumn": 48,
+                        "endOffset": 52162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1080,
+                    "startColumn": 4,
+                    "startOffset": 52167,
+                    "endColumn": 53,
+                    "endOffset": 52216
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1080,
+                        "startColumn": 4,
+                        "startOffset": 52167,
+                        "endColumn": 53,
+                        "endOffset": 52216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1081,
+                    "startColumn": 4,
+                    "startOffset": 52221,
+                    "endColumn": 54,
+                    "endOffset": 52271
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1081,
+                        "startColumn": 4,
+                        "startOffset": 52221,
+                        "endColumn": 54,
+                        "endOffset": 52271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1082,
+                    "startColumn": 4,
+                    "startOffset": 52276,
+                    "endColumn": 56,
+                    "endOffset": 52328
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1082,
+                        "startColumn": 4,
+                        "startOffset": 52276,
+                        "endColumn": 56,
+                        "endOffset": 52328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1083,
+                    "startColumn": 4,
+                    "startOffset": 52333,
+                    "endColumn": 57,
+                    "endOffset": 52386
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1083,
+                        "startColumn": 4,
+                        "startOffset": 52333,
+                        "endColumn": 57,
+                        "endOffset": 52386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1084,
+                    "startColumn": 4,
+                    "startOffset": 52391,
+                    "endColumn": 66,
+                    "endOffset": 52453
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1084,
+                        "startColumn": 4,
+                        "startOffset": 52391,
+                        "endColumn": 66,
+                        "endOffset": 52453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1085,
+                    "startColumn": 4,
+                    "startOffset": 52458,
+                    "endColumn": 59,
+                    "endOffset": 52513
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1085,
+                        "startColumn": 4,
+                        "startOffset": 52458,
+                        "endColumn": 59,
+                        "endOffset": 52513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1086,
+                    "startColumn": 4,
+                    "startOffset": 52518,
+                    "endColumn": 61,
+                    "endOffset": 52575
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1086,
+                        "startColumn": 4,
+                        "startOffset": 52518,
+                        "endColumn": 61,
+                        "endOffset": 52575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1096,
+                    "startColumn": 4,
+                    "startOffset": 54223,
+                    "endColumn": 68,
+                    "endOffset": 54287
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1096,
+                        "startColumn": 4,
+                        "startOffset": 54223,
+                        "endColumn": 68,
+                        "endOffset": 54287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1097,
+                    "startColumn": 4,
+                    "startOffset": 54292,
+                    "endColumn": 65,
+                    "endOffset": 54353
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1097,
+                        "startColumn": 4,
+                        "startOffset": 54292,
+                        "endColumn": 65,
+                        "endOffset": 54353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1098,
+                    "startColumn": 4,
+                    "startOffset": 54358,
+                    "endColumn": 65,
+                    "endOffset": 54419
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1098,
+                        "startColumn": 4,
+                        "startOffset": 54358,
+                        "endColumn": 65,
+                        "endOffset": 54419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1099,
+                    "startColumn": 4,
+                    "startOffset": 54424,
+                    "endColumn": 68,
+                    "endOffset": 54488
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1099,
+                        "startColumn": 4,
+                        "startOffset": 54424,
+                        "endColumn": 68,
+                        "endOffset": 54488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1100,
+                    "startColumn": 4,
+                    "startOffset": 54493,
+                    "endColumn": 70,
+                    "endOffset": 54559
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1100,
+                        "startColumn": 4,
+                        "startOffset": 54493,
+                        "endColumn": 70,
+                        "endOffset": 54559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1101,
+                    "startColumn": 4,
+                    "startOffset": 54564,
+                    "endColumn": 61,
+                    "endOffset": 54621
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1101,
+                        "startColumn": 4,
+                        "startOffset": 54564,
+                        "endColumn": 61,
+                        "endOffset": 54621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1102,
+                    "startColumn": 4,
+                    "startOffset": 54626,
+                    "endColumn": 63,
+                    "endOffset": 54685
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1102,
+                        "startColumn": 4,
+                        "startOffset": 54626,
+                        "endColumn": 63,
+                        "endOffset": 54685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1103,
+                    "startColumn": 4,
+                    "startOffset": 54690,
+                    "endColumn": 68,
+                    "endOffset": 54754
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1103,
+                        "startColumn": 4,
+                        "startOffset": 54690,
+                        "endColumn": 68,
+                        "endOffset": 54754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1104,
+                    "startColumn": 4,
+                    "startOffset": 54759,
+                    "endColumn": 62,
+                    "endOffset": 54817
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1104,
+                        "startColumn": 4,
+                        "startOffset": 54759,
+                        "endColumn": 62,
+                        "endOffset": 54817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1105,
+                    "startColumn": 4,
+                    "startOffset": 54822,
+                    "endColumn": 65,
+                    "endOffset": 54883
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1105,
+                        "startColumn": 4,
+                        "startOffset": 54822,
+                        "endColumn": 65,
+                        "endOffset": 54883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1106,
+                    "startColumn": 4,
+                    "startOffset": 54888,
+                    "endColumn": 62,
+                    "endOffset": 54946
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1106,
+                        "startColumn": 4,
+                        "startOffset": 54888,
+                        "endColumn": 62,
+                        "endOffset": 54946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1107,
+                    "startColumn": 4,
+                    "startOffset": 54951,
+                    "endColumn": 58,
+                    "endOffset": 55005
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1107,
+                        "startColumn": 4,
+                        "startOffset": 54951,
+                        "endColumn": 58,
+                        "endOffset": 55005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1108,
+                    "startColumn": 4,
+                    "startOffset": 55010,
+                    "endColumn": 55,
+                    "endOffset": 55061
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1108,
+                        "startColumn": 4,
+                        "startOffset": 55010,
+                        "endColumn": 55,
+                        "endOffset": 55061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1109,
+                    "startColumn": 4,
+                    "startOffset": 55066,
+                    "endColumn": 59,
+                    "endOffset": 55121
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1109,
+                        "startColumn": 4,
+                        "startOffset": 55066,
+                        "endColumn": 59,
+                        "endOffset": 55121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1110,
+                    "startColumn": 4,
+                    "startOffset": 55126,
+                    "endColumn": 58,
+                    "endOffset": 55180
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1110,
+                        "startColumn": 4,
+                        "startOffset": 55126,
+                        "endColumn": 58,
+                        "endOffset": 55180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1111,
+                    "startColumn": 4,
+                    "startOffset": 55185,
+                    "endColumn": 53,
+                    "endOffset": 55234
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1111,
+                        "startColumn": 4,
+                        "startOffset": 55185,
+                        "endColumn": 53,
+                        "endOffset": 55234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1112,
+                    "startColumn": 4,
+                    "startOffset": 55239,
+                    "endColumn": 55,
+                    "endOffset": 55290
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1112,
+                        "startColumn": 4,
+                        "startOffset": 55239,
+                        "endColumn": 55,
+                        "endOffset": 55290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1113,
+                    "startColumn": 4,
+                    "startOffset": 55295,
+                    "endColumn": 57,
+                    "endOffset": 55348
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1113,
+                        "startColumn": 4,
+                        "startOffset": 55295,
+                        "endColumn": 57,
+                        "endOffset": 55348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1114,
+                    "startColumn": 4,
+                    "startOffset": 55353,
+                    "endColumn": 55,
+                    "endOffset": 55404
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1114,
+                        "startColumn": 4,
+                        "startOffset": 55353,
+                        "endColumn": 55,
+                        "endOffset": 55404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1115,
+                    "startColumn": 4,
+                    "startOffset": 55409,
+                    "endColumn": 59,
+                    "endOffset": 55464
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1115,
+                        "startColumn": 4,
+                        "startOffset": 55409,
+                        "endColumn": 59,
+                        "endOffset": 55464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1116,
+                    "startColumn": 4,
+                    "startOffset": 55469,
+                    "endColumn": 57,
+                    "endOffset": 55522
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1116,
+                        "startColumn": 4,
+                        "startOffset": 55469,
+                        "endColumn": 57,
+                        "endOffset": 55522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1117,
+                    "startColumn": 4,
+                    "startOffset": 55527,
+                    "endColumn": 53,
+                    "endOffset": 55576
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1117,
+                        "startColumn": 4,
+                        "startOffset": 55527,
+                        "endColumn": 53,
+                        "endOffset": 55576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1118,
+                    "startColumn": 4,
+                    "startOffset": 55581,
+                    "endColumn": 58,
+                    "endOffset": 55635
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1118,
+                        "startColumn": 4,
+                        "startOffset": 55581,
+                        "endColumn": 58,
+                        "endOffset": 55635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1119,
+                    "startColumn": 4,
+                    "startOffset": 55640,
+                    "endColumn": 55,
+                    "endOffset": 55691
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1119,
+                        "startColumn": 4,
+                        "startOffset": 55640,
+                        "endColumn": 55,
+                        "endOffset": 55691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1120,
+                    "startColumn": 4,
+                    "startOffset": 55696,
+                    "endColumn": 55,
+                    "endOffset": 55747
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1120,
+                        "startColumn": 4,
+                        "startOffset": 55696,
+                        "endColumn": 55,
+                        "endOffset": 55747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1121,
+                    "startColumn": 4,
+                    "startOffset": 55752,
+                    "endColumn": 59,
+                    "endOffset": 55807
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1121,
+                        "startColumn": 4,
+                        "startOffset": 55752,
+                        "endColumn": 59,
+                        "endOffset": 55807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1122,
+                    "startColumn": 4,
+                    "startOffset": 55812,
+                    "endColumn": 57,
+                    "endOffset": 55865
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1122,
+                        "startColumn": 4,
+                        "startOffset": 55812,
+                        "endColumn": 57,
+                        "endOffset": 55865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1123,
+                    "startColumn": 4,
+                    "startOffset": 55870,
+                    "endColumn": 53,
+                    "endOffset": 55919
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1123,
+                        "startColumn": 4,
+                        "startOffset": 55870,
+                        "endColumn": 53,
+                        "endOffset": 55919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1124,
+                    "startColumn": 4,
+                    "startOffset": 55924,
+                    "endColumn": 57,
+                    "endOffset": 55977
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1124,
+                        "startColumn": 4,
+                        "startOffset": 55924,
+                        "endColumn": 57,
+                        "endOffset": 55977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1125,
+                    "startColumn": 4,
+                    "startOffset": 55982,
+                    "endColumn": 60,
+                    "endOffset": 56038
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1125,
+                        "startColumn": 4,
+                        "startOffset": 55982,
+                        "endColumn": 60,
+                        "endOffset": 56038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1126,
+                    "startColumn": 4,
+                    "startOffset": 56043,
+                    "endColumn": 58,
+                    "endOffset": 56097
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1126,
+                        "startColumn": 4,
+                        "startOffset": 56043,
+                        "endColumn": 58,
+                        "endOffset": 56097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1127,
+                    "startColumn": 4,
+                    "startOffset": 56102,
+                    "endColumn": 60,
+                    "endOffset": 56158
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1127,
+                        "startColumn": 4,
+                        "startOffset": 56102,
+                        "endColumn": 60,
+                        "endOffset": 56158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1128,
+                    "startColumn": 4,
+                    "startOffset": 56163,
+                    "endColumn": 57,
+                    "endOffset": 56216
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1128,
+                        "startColumn": 4,
+                        "startOffset": 56163,
+                        "endColumn": 57,
+                        "endOffset": 56216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1129,
+                    "startColumn": 4,
+                    "startOffset": 56221,
+                    "endColumn": 55,
+                    "endOffset": 56272
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1129,
+                        "startColumn": 4,
+                        "startOffset": 56221,
+                        "endColumn": 55,
+                        "endOffset": 56272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1130,
+                    "startColumn": 4,
+                    "startOffset": 56277,
+                    "endColumn": 53,
+                    "endOffset": 56326
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1130,
+                        "startColumn": 4,
+                        "startOffset": 56277,
+                        "endColumn": 53,
+                        "endOffset": 56326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1131,
+                    "startColumn": 4,
+                    "startOffset": 56331,
+                    "endColumn": 55,
+                    "endOffset": 56382
+                },
+                "from": {
+                    "file": "E:\\ASproject\\Mediapaly_test\\AndroidBootstrap\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1131,
+                        "startColumn": 4,
+                        "startOffset": 56331,
+                        "endColumn": 55,
+                        "endOffset": 56382
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Android-Bootstrap-master.iml" filepath="$PROJECT_DIR$/../Android-Bootstrap-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidBootstrap.iml" filepath="$PROJECT_DIR$/AndroidBootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sample/sample.iml" filepath="$PROJECT_DIR$/../sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../syllabus/syllabus.iml" filepath="$PROJECT_DIR$/../syllabus/syllabus.iml" />
+    </modules>
+  </component>
+</project>

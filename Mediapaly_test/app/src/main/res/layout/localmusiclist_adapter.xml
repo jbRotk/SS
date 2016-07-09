@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="SongName"
+        android:id="@+id/SONGNAME"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:textSize="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="16dp"
+        android:maxEms="6"
+        android:ellipsize="end"
+        android:singleLine="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Singer"
+        android:id="@+id/SINGER"
+        android:layout_below="@+id/SONGNAME"
+        android:layout_alignStart="@+id/SONGNAME"
+        android:layout_marginTop="4dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:layout_below="@+id/SINGER"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@color/colorPrimary"
+        android:layout_marginTop="8dp"
+        android:id="@+id/relativeLayout9"></RelativeLayout>
+
+    <ImageView
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:id="@+id/imageView8"
+        android:src="@drawable/inicon"
+        android:layout_alignTop="@+id/SONGNAME"
+        android:layout_alignEnd="@+id/relativeLayout9"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="8dp" />
+</RelativeLayout>

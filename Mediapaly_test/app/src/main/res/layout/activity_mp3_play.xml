@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.mp3_play">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/songpic"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="#000000"
+        android:layout_alignBottom="@+id/relativeLayout8"
+        android:adjustViewBounds="false"
+        android:alpha="0.9" />
+
+    <com.example.brazz.mediapaly_test.View.Lrc_TextView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:id="@+id/lrctext1"
+        android:layout_above="@+id/relativeLayout8"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"
+        android:layout_below="@+id/Singer"
+        android:layout_marginTop="16dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_alignParentBottom="true"
+        android:background="#00ffffff"
+        android:id="@+id/relativeLayout8">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0:01"
+            android:id="@+id/mediacurrentime"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#ffffff"
+            android:layout_marginLeft="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0:00"
+            android:id="@+id/mediaduration"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:textColor="#ffffff"
+            android:layout_marginRight="8dp" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/pausesong"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/play" />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:id="@+id/nextsong1"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@+id/pausesong"
+            android:src="@drawable/nextsong1"
+            android:layout_marginLeft="32dp" />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:id="@+id/previewsong"
+            android:layout_centerVertical="true"
+            android:layout_toStartOf="@+id/pausesong"
+            android:src="@drawable/nextsong2"
+            android:layout_marginRight="32dp" />
+
+        <SeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Mp3Progress"
+            android:indeterminate="false"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="false"
+            android:layout_alignParentStart="false"
+            android:layout_toEndOf="@id/mediacurrentime"
+            android:layout_toStartOf="@id/mediaduration" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="顺序播放"
+            android:id="@+id/playBy"
+            android:layout_alignBottom="@+id/pausesong"
+            android:layout_alignParentStart="true"
+            android:background="#00ffffff"
+            android:textSize="12dp"
+            android:textColor="#ffffff"
+            android:clickable="true" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/SongName"
+        android:textSize="24dp"
+        android:textStyle="normal"
+        android:layout_below="@+id/relativeLayout10"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"
+        android:maxEms="10"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Singer"
+        android:layout_below="@+id/SongName"
+        android:layout_centerHorizontal="true"
+        android:textSize="16dp"
+        android:layout_marginTop="8dp"
+        android:textColor="#ffffff" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/relativeLayout10"
+        android:background="#00ffffff">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/Download"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/download"
+            android:layout_marginRight="16dp" />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:id="@+id/back"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:src="@drawable/back"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="首页"
+            android:id="@+id/back1"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@+id/back"
+            android:textColor="#ffffff"
+            android:textSize="20dp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

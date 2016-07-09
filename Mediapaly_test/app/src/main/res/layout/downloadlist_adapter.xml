@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Songname"
+        android:id="@+id/SongName"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:textSize="20dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="8dp"
+        android:maxEms="6"
+        android:ellipsize="end"
+        android:singleLine="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Singer"
+        android:id="@+id/Singer"
+        android:layout_below="@+id/SongName"
+        android:layout_alignStart="@+id/SongName"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Type"
+        android:id="@+id/Type"
+        android:layout_alignBottom="@+id/SongName"
+        android:layout_toEndOf="@+id/SongName"
+        android:layout_marginLeft="8dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:layout_below="@+id/Singer"
+        android:layout_alignParentStart="true"
+        android:background="@color/colorPrimaryDark"
+        android:layout_marginTop="8dp"></RelativeLayout>
+
+    <ImageView
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:id="@+id/imageView16"
+        android:layout_centerVertical="true"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/inicon"
+        android:layout_marginRight="16dp" />
+
+</RelativeLayout>

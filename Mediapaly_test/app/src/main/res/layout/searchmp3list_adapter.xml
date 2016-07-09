@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/WEBSONGNAME"
+        android:textSize="20dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="16dp"
+        android:maxEms="6"
+        android:ellipsize="end"
+        android:singleLine="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/WEBSINGER"
+        android:layout_below="@+id/WEBSONGNAME"
+        android:layout_alignStart="@+id/WEBSONGNAME"
+        android:layout_marginTop="8dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:layout_below="@+id/WEBSINGER"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:background="@color/colorPrimary"
+        android:layout_marginTop="4dp"></RelativeLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView19"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/inicon"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/type"
+        android:layout_above="@+id/WEBSINGER"
+        android:layout_toEndOf="@+id/WEBSONGNAME"
+        android:layout_marginLeft="8dp" />
+</RelativeLayout>

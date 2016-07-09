@@ -1,0 +1,56 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">#ebebeb</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="BlackAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/BlackAppThem</item>
+        <item name="colorPrimaryDark">@color/BlackAppThem</item>
+        <item name="colorAccent">#ebebeb</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AnimationPreview">
+        <item name="android:windowEnterAnimation">@anim/fade_in</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+    </style>
+    <style name="LockScreenBase" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+    <style parent="@android:style/Animation" name="ActivityTransitions">
+
+    <item name="android:activityOpenEnterAnimation">@anim/open_enter</item>
+
+    <item name="android:activityOpenExitAnimation">@anim/open_exit</item>
+
+    <item name="android:activityCloseEnterAnimation">@anim/close_enter</item>
+
+    <item name="android:activityCloseExitAnimation">@anim/close_exit</item>
+
+</style>
+
+
+    <style parent="@android:style/Theme.NoTitleBar" name="SlideAppTheme">
+
+    <item name="android:windowAnimationStyle">@style/ActivityTransitions</item>
+
+</style>
+</resources>
